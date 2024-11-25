@@ -69,5 +69,7 @@ We excluded the column “113 Cause Name” which seemed to represent some sort 
 ## Presentation File
 [Project2_Presentation_11:20.pdf](https://github.com/user-attachments/files/17906337/Project2_Presentation_11.20.pdf)
 
-## Tableau Packaged Workbook
-File uploaded in eLC dropbox
+## Data File Link & Tableau Packaged Workbook
+https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states
+
+Packaged workbook uploaded in eLC Dropbox.
